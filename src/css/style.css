@@ -47,7 +47,6 @@ html, body{
 .enemy {
     background-image: url(../images/ralph.png);
     background-size: cover;
-    background-color: #ff0000;
 }
 
 .menu-lives img{
